@@ -6,7 +6,7 @@ C:\Users\mapping\source\repos\ClientBillManagement\ClientBillManagement\bin\Debu
 C:\Users\mapping\source\repos\ClientBillManagement\ClientBillManagement\bin\Debug\MetroFramework.Fonts.dll
 C:\Users\mapping\source\repos\ClientBillManagement\ClientBillManagement\obj\Debug\ClientBillManagement.csproj.AssemblyReference.cache
 C:\Users\mapping\source\repos\ClientBillManagement\ClientBillManagement\obj\Debug\ClientBillManagement.csproj.SuggestedBindingRedirects.cache
-C:\Users\mapping\source\repos\ClientBillManagement\ClientBillManagement\obj\Debug\ClientBillManagement.Form1.resources
+C:\Users\mapping\source\repos\ClientBillManagement\ClientBillManagement\obj\Debug\ClientBillManagement.Facture.resources
 C:\Users\mapping\source\repos\ClientBillManagement\ClientBillManagement\obj\Debug\ClientBillManagement.Properties.Resources.resources
 C:\Users\mapping\source\repos\ClientBillManagement\ClientBillManagement\obj\Debug\ClientBillManagement.csproj.GenerateResource.cache
 C:\Users\mapping\source\repos\ClientBillManagement\ClientBillManagement\obj\Debug\ClientBillManagement.csproj.CoreCompileInputs.cache
