@@ -1,0 +1,15 @@
+C:\Users\mapping\source\repos\ClientBillManagement\ClientBillManagement\bin\Debug\ClientBillManagement.exe.config
+C:\Users\mapping\source\repos\ClientBillManagement\ClientBillManagement\bin\Debug\ClientBillManagement.exe
+C:\Users\mapping\source\repos\ClientBillManagement\ClientBillManagement\bin\Debug\ClientBillManagement.pdb
+C:\Users\mapping\source\repos\ClientBillManagement\ClientBillManagement\bin\Debug\MetroFramework.Design.dll
+C:\Users\mapping\source\repos\ClientBillManagement\ClientBillManagement\bin\Debug\MetroFramework.dll
+C:\Users\mapping\source\repos\ClientBillManagement\ClientBillManagement\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\mapping\source\repos\ClientBillManagement\ClientBillManagement\obj\Debug\ClientBillManagement.csproj.AssemblyReference.cache
+C:\Users\mapping\source\repos\ClientBillManagement\ClientBillManagement\obj\Debug\ClientBillManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\mapping\source\repos\ClientBillManagement\ClientBillManagement\obj\Debug\ClientBillManagement.Form1.resources
+C:\Users\mapping\source\repos\ClientBillManagement\ClientBillManagement\obj\Debug\ClientBillManagement.Properties.Resources.resources
+C:\Users\mapping\source\repos\ClientBillManagement\ClientBillManagement\obj\Debug\ClientBillManagement.csproj.GenerateResource.cache
+C:\Users\mapping\source\repos\ClientBillManagement\ClientBillManagement\obj\Debug\ClientBillManagement.csproj.CoreCompileInputs.cache
+C:\Users\mapping\source\repos\ClientBillManagement\ClientBillManagement\obj\Debug\ClientBillManagement.csproj.CopyComplete
+C:\Users\mapping\source\repos\ClientBillManagement\ClientBillManagement\obj\Debug\ClientBillManagement.exe
+C:\Users\mapping\source\repos\ClientBillManagement\ClientBillManagement\obj\Debug\ClientBillManagement.pdb
